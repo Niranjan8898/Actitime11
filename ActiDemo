@@ -5,4 +5,6 @@ driver.findElementBy.name
 driver.findElementBy.class
 driver.findElementBy.tagname
 driver.findElementBy.linktext
+driver.manage().window().maximize();
+driver.manage().timeouts().implicitlyWait(Duration.Ofseconds);
 
