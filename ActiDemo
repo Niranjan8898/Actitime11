@@ -1,3 +1,5 @@
+All types of Locators
+
 driver.findElementBy.id
 driver.findElementBy.name
 driver.findElementBy.class
